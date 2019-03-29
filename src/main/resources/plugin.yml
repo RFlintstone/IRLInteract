@@ -1,0 +1,12 @@
+name: IRLInteract
+version: ${project.version}
+main: irlinteract.maincode.IRLInteract
+api-version: 1.13
+authors: [Ruben_Flinterman]
+description: Loads time and weather from your local area.
+website: www.twitch.tv/gameincluded
+
+commands:
+  test:
+    description: test
+    usage: /test
